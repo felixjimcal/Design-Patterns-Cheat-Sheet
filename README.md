@@ -32,3 +32,9 @@ Product<br>
 .<br>
 .<br>
 .<br>
+<br>
+Other cpp concepts
+<br>
+Inheritance: https://youtu.be/W3kpFSbkqQ8<br>
+Threading: https://youtu.be/TPVH_coGAQs<br>
+Smart Pointers: https://youtu.be/wUzn0HljjRE<br>
